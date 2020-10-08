@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pan.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PCColon" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.57</Value>
+    </Setting>
+    <Setting Name="PCCandeal" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.57</Value>
+    </Setting>
+    <Setting Name="PCPicos" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.57</Value>
+    </Setting>
+    <Setting Name="PCAnticrisis" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="PCAVerano" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.27</Value>
+    </Setting>
+    <Setting Name="PCPistolas" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.4</Value>
+    </Setting>
+    <Setting Name="PCIntegral" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.43</Value>
+    </Setting>
+    <Setting Name="PCSinSal" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.43</Value>
+    </Setting>
+    <Setting Name="PCMejorena" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.37</Value>
+    </Setting>
+    <Setting Name="PCMGrande" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.54</Value>
+    </Setting>
+    <Setting Name="PCNatural" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.37</Value>
+    </Setting>
+    <Setting Name="PCBarrita" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.24</Value>
+    </Setting>
+    <Setting Name="PVColon" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.85</Value>
+    </Setting>
+    <Setting Name="PVCandeal" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.85</Value>
+    </Setting>
+    <Setting Name="PVPicos" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.85</Value>
+    </Setting>
+    <Setting Name="PVAnticrisis" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="PVAVerano" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.4</Value>
+    </Setting>
+    <Setting Name="PVPistolas" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.65</Value>
+    </Setting>
+    <Setting Name="PVIntegral" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.65</Value>
+    </Setting>
+    <Setting Name="PVSinSal" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.65</Value>
+    </Setting>
+    <Setting Name="PVMejorena" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.55</Value>
+    </Setting>
+    <Setting Name="PVMGrande" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="PVNatural" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.55</Value>
+    </Setting>
+    <Setting Name="PVBarrita" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.35</Value>
+    </Setting>
+    <Setting Name="Pan1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Colon</Value>
+    </Setting>
+    <Setting Name="Pan2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Candeal</Value>
+    </Setting>
+    <Setting Name="Pan3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Picos</Value>
+    </Setting>
+    <Setting Name="Pan4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anticrisis</Value>
+    </Setting>
+    <Setting Name="Pan5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A.Verano</Value>
+    </Setting>
+    <Setting Name="Pan6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pistolas</Value>
+    </Setting>
+    <Setting Name="Pan7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Integral</Value>
+    </Setting>
+    <Setting Name="Pan8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Sal</Value>
+    </Setting>
+    <Setting Name="Pan9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mejoreña</Value>
+    </Setting>
+    <Setting Name="Pan10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M.Grande</Value>
+    </Setting>
+    <Setting Name="Pan11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Natural</Value>
+    </Setting>
+    <Setting Name="Pan12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Barrita</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
